@@ -25,7 +25,7 @@ source ~/.bash_profile
 Finally, download the script into `/usr/local/bin` using following command.
 
 ```bash
-wget https://raw.githubusercontent.com/hisener/slap/master/slap -P /usr/local/bin
+wget https://raw.githubusercontent.com/hisener/slap/master/slap -P /usr/local/bin && chmod +x /usr/local/bin/slap
 ```
 
 ## Uninstall
